@@ -1,68 +1,13 @@
 # 🌐 Express Portfolio Website
-
-<<<<<<< HEAD
 Welcome to my personal developer portfolio built with **Node.js**, **Express.js**, and **Handlebars (HBS)**.  
 This project showcases my academic journey, technical skills, and personal projects as part of **Assignment 1** for the course **COMP 2068: JavaScript Frameworks** at Georgian College.
-=======
-Welcome to my personal developer portfolio built with **Node.js**, **Express.js**, and **Handlebars (HBS)**. This project showcases my academic journey, technical skills, and real-world projects as part of  JavaScript Frameworks**.
->>>>>>> fef20e813007a6f063e5037deff21af22c5ad8df
 
----
-
-## 📁 Project Structure
-
-assignment1/
-
-├── bin/                  # Server 
-starter (www)  
-
-├── public/               # Static 
-assets (images, stylesheets)  
-
-│   └── images/           # Profile & 
-project images  
-
-├── routes/               # Application 
-routes  
-
-│   └── index.js          # All route 
-definitions  
-
-├── views/                # Handlebars 
-templates  
-
-│   ├── index.hbs         # Home page  
-
-│   ├── about.hbs         # About Me  
-
-│   ├── projects.hbs      # Projects  
-
-│   ├── contact.hbs       # Contact Me  
-
-│   └── layout.hbs        # Shared 
-layout  
-
-├── app.js                # Express app 
-configuration  
-
-├── package.json          # Project 
-metadata and dependencies  
-
-└── README.md             # You are here 📍
-
----
 
 ## 🔗 Live Link
 
-<<<<<<< HEAD
-🌍 [View Deployed Site on Render](https://your-render-link.onrender.com)  
-*(Update this after deployment)*
-=======
-🌍 [View Deployed Site on Render](https://myportfolio-dp9b.onrender.com)  
-*(Update this after deploying)*
->>>>>>> fef20e813007a6f063e5037deff21af22c5ad8df
 
----
+🌍 [View Deployed Site on Render](https://ishaanportfolio.onrender.com)
+
 
 ## 💻 Technologies Used
 
@@ -123,7 +68,7 @@ metadata and dependencies
 
 ---
 
-## 🖋️ Made With ❤️ by Ishan Sharma and Dheeraj pathak
+## 🖋️ Made With ❤️ by Ishan Sharma
 
 > Crafted with passion, purpose, and persistence.  
 > Driven by curiosity and a commitment to building clean, scalable, and user-friendly software.
