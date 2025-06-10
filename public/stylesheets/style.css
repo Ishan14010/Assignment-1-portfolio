@@ -1,0 +1,32 @@
+/* ===== GLOBAL STYLES ===== */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* ===== HEADINGS ===== */
+h1, h2, h3 {
+  font-weight: 600;
+  color: #343a40;
+}
+
+/* ===== CARD SHADOWS ===== */
+.card {
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+/* ===== FORM SPACING ===== */
+form .form-control {
+  border-radius: 0.5rem;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
